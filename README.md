@@ -1,4 +1,4 @@
 # Ruby Basics
- Basic Ruby exercise to practice Ruby skills.
+ Basic Ruby exercises to practice Ruby skills.
 
- test test
+
